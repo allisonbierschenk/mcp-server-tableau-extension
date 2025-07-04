@@ -1,0 +1,10 @@
+<Manifest>
+  <Name>My MCP Extension</Name>
+  <Description>Extension that connects to an MCP server</Description>
+  <URL>https://YOUR_SERVER/index.html</URL>
+  <Icon>https://YOUR_SERVER/icon.png</Icon>
+  <Version>1.0.0</Version>
+  <Script>
+    <Source>https://YOUR_SERVER/script.js</Source>
+  </Script>
+</Manifest>
